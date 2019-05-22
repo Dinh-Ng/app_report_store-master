@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Report Tracking</string>
+    <string name="login_report_tracking">Login Report Tracking</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="name_store">Name\nStore</string>
+    <string name="install_total">Install\nTotal</string>
+    <string name="install_in_month">Install\nin Month</string>
+    <string name="day">Day</string>
+    <string name="revenue_in_month_kyat">Revenue In\nMonth (kyat)</string>
+    <string name="deposit">Deposit</string>
+    <string name="error_no_user_found">error,No user found.</string>
+    <string name="submit">Submit</string>
+    <string name="report_accounting">Report Accounting</string>
+    <string name="report_store">Report Store</string>
+    <string name="level">Level</string>
+    <string name="total">Total</string>
+    <string name="total_in_month">Total in Month</string>
+    <string name="rev_kyat">Rev (kyat)</string>
+    <string name="time">Time</string>
+    <string name="install_shan_total">Install Shan Total</string>
+    <string name="total_full3p">Total Full3P</string>
+    <string name="full3p_in_month">Full3P in Month</string>
+    <string name="date">Date</string>
+    <string name="new_code">New Code</string>
+    <string name="next_code">Next Code</string>
+    <string name="install_new">Install New</string>
+    <string name="remove_pkg">Remove Pkg</string>
+    <string name="active">Active</string>
+
+    <string-array name="array_month">
+        <item>05-2019</item>
+        <item>04-2019</item>
+        <item>03-2019</item>
+        <item>02-2019</item>
+        <item>01-2019</item>
+        <item>12-2018</item>
+    </string-array>
+
+    <string-array name="array_rp">
+        <item>camgames</item>
+        <item>mmgame</item>
+    </string-array>
+</resources>
